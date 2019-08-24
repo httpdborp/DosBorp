@@ -1,13 +1,13 @@
 # DosBorp
 welcome and enjoy lol
 
-#INSTALL
+# how to install?
 
     sudo apt-get install python3 python3-pip git
     pip3 install requests colorama pysocks
-    git clone https://github.com/httpdborp/DosBorp.git
+    git clone https://github.com/httpdborp/DosBorp
     
-#USAGE
+# how to use?
 
     cd DosBorp
     python3 DosBorp
